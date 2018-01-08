@@ -1,2 +1,2 @@
-*.js eol=lf
-*.ts eol=lf
+*.js text eol=lf
+*.ts text eol=lf
